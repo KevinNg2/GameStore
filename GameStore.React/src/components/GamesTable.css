@@ -1,0 +1,90 @@
+.table-wrapper {
+  overflow-x: auto;
+  border-radius: 10px;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
+}
+
+.games-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: #fff;
+  font-size: 0.95rem;
+}
+
+.games-table thead {
+  background: #1a1a2e;
+  color: #fff;
+}
+
+.games-table thead th {
+  padding: 14px 16px;
+  text-align: left;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  white-space: nowrap;
+}
+
+.games-table tbody tr {
+  border-bottom: 1px solid #f0f0f0;
+  transition: background 0.15s;
+}
+
+.games-table tbody tr:last-child {
+  border-bottom: none;
+}
+
+.games-table tbody tr:hover {
+  background: #f7f8ff;
+}
+
+.games-table td {
+  padding: 12px 16px;
+  vertical-align: middle;
+}
+
+.col-id {
+  color: #999;
+  font-size: 0.85rem;
+  width: 48px;
+}
+
+.col-name {
+  font-weight: 500;
+}
+
+.col-price {
+  font-weight: 600;
+  color: #2a7c2e;
+}
+
+.col-date {
+  color: #666;
+  font-size: 0.9rem;
+}
+
+.col-actions {
+  white-space: nowrap;
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+.genre-badge {
+  display: inline-block;
+  padding: 3px 10px;
+  border-radius: 20px;
+  background: #eef0ff;
+  color: #3a3aaa;
+  font-size: 0.82rem;
+  font-weight: 500;
+}
+
+.empty-state {
+  text-align: center;
+  padding: 60px 20px;
+  color: #888;
+  font-size: 1rem;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.06);
+}

@@ -1,0 +1,33 @@
+### Get all games
+GET http://localhost:5065/games
+
+### Get game by ID
+GET http://localhost:5065/games/3
+
+### Create a new game
+POST http://localhost:5065/games
+Content-Type: application/json
+
+{
+    "name": "Test",
+    "genreId": 4,
+    "price": 19.99,
+    "releaseDate": "1992-03-02"
+}
+
+### Update an existing game
+PUT http://localhost:5065/games/2
+Content-Type: application/json
+
+{
+    "name": "GoldenEye",
+    "genreId": 5,
+    "price": 9.99,
+    "releaseDate": "1992-03-02"
+}
+
+### Delete an existing game
+DELETE http://localhost:5065/games/3
+
+### Get all genres
+GET http://localhost:5065/genres
