@@ -6,7 +6,7 @@ A full-stack web application for managing and browsing a game store. Built with 
 
 Watch the application in action:
 
-![GameStore Demo](./GameStore-ezgif.com-video-to-gif-converter.gif)
+![GameStore Demo](./GameStore-ezgif.com-video-to-gif-converter%20(1).gif)
 
 > 💡 **Tip**: Click the GIF above to view it in full size, or visit the [Loom video](https://www.loom.com/share/c82bdb6cc68e4fc59f64f215693d26fd) for the full-quality demo.
 
