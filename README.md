@@ -6,12 +6,9 @@ A full-stack web application for managing and browsing a game store. Built with 
 
 Watch the application in action:
 
-[![GameStore Demo](https://img.shields.io/badge/Watch%20Demo-Loom-654ea3?style=for-the-badge)](https://www.loom.com/share/c82bdb6cc68e4fc59f64f215693d26fd)
+![GameStore Demo](./GameStore-ezgif.com-video-to-gif-converter.gif)
 
-> 📹 **Note**: While GitHub doesn't support direct video playback in README files, you can click the link above to watch the demo on Loom. Alternatively, you can view it by copying the link below into your browser:
-> ```
-> https://www.loom.com/share/c82bdb6cc68e4fc59f64f215693d26fd
-> ```
+> 💡 **Tip**: Click the GIF above to view it in full size, or visit the [Loom video](https://www.loom.com/share/c82bdb6cc68e4fc59f64f215693d26fd) for the full-quality demo.
 
 ## 📋 Overview
 
