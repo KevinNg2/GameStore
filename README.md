@@ -2,6 +2,17 @@
 
 A full-stack web application for managing and browsing a game store. Built with a modern tech stack featuring a .NET 10 backend API and a React frontend.
 
+## 🎥 Demo
+
+Watch the application in action:
+
+[![GameStore Demo](https://img.shields.io/badge/Watch%20Demo-Loom-654ea3?style=for-the-badge)](https://www.loom.com/share/c82bdb6cc68e4fc59f64f215693d26fd)
+
+> 📹 **Note**: While GitHub doesn't support direct video playback in README files, you can click the link above to watch the demo on Loom. Alternatively, you can view it by copying the link below into your browser:
+> ```
+> https://www.loom.com/share/c82bdb6cc68e4fc59f64f215693d26fd
+> ```
+
 ## 📋 Overview
 
 GameStore is a web application that allows users to browse and manage games in a store. It features:
